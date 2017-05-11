@@ -1,0 +1,25 @@
+60 points
+
+Ariel,
+
+- Good job in setting up your java compiler in your system.
+
+- Good job with your first GitHub submission!
+
+However,
+
+- The link to your GitHub repository was nowhere to be found in your document
+  or screenshots. 
+
+- A little header or cover page with your name, class, assignment, date, etc.
+  is always good to have in any assignment of this type.
+
+- You did not bring the assignment in printed version by the deadline.
+
+- You must submit your assignments on time.
+
+
+
+Peace,
+
+- Dr. Pablo Rivas
