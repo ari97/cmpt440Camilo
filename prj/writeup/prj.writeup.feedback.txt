@@ -1,0 +1,14 @@
+33 pts
+
+The project attempts to determine which sentences that can be considered
+grammatically correct. 
+The idea has good merit. 
+
+However, there are some issues...
+Code:
+- There is incorrect indentation. -1pt
+
+Overall:
+- The project is extremely easy. You can do a lot better than this. -5pts
+
+- Decent work below average of a formal languages student. -1pt
